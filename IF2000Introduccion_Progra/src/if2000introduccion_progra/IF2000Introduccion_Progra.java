@@ -4,6 +4,7 @@
  */
 package if2000introduccion_progra;
 
+
 /**
  *
  * @author azuce
@@ -14,6 +15,9 @@ public class IF2000Introduccion_Progra {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Person p = new Person 
+                System.out.print
+        
         // TODO code application logic here
     }
     
