@@ -15,8 +15,8 @@ public class IF2000Introduccion_Progra {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Person p = new Person 
-                System.out.print
+       // Person p = new Person 
+             //   System.out.print
         
         // TODO code application logic here
     }
