@@ -145,8 +145,5 @@ public class Ejercicios_Semana2_PracticaEnClase {
             System.out.println();
         }
         }
-   
-    }
-   
-
-
+    
+}

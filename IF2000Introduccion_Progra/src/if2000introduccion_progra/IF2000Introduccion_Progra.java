@@ -6,6 +6,7 @@ package if2000introduccion_progra;
 //import logic.Ejercicios_Semana2_PracticaEnClase;
 
 import logic.lab1_ejercicios;
+//import logic.Quizz3;
 
  
 
@@ -17,8 +18,11 @@ public class IF2000Introduccion_Progra {
 
     /**
      * @param args the command line arguments
+     * 
      */
     public static void main(String[] args) {
+        //Quizz3 quizz = new Quizz3();
+        //quizz.quizz(5);
         //Ejercicios_Semana2_PracticaEnClase ejercicios = new Ejercicios_Semana2_PracticaEnClase();
         //ejercicios.ejercicioA(5);
         //ejercicios.ejercicioB(12);
@@ -35,8 +39,18 @@ public class IF2000Introduccion_Progra {
         lab1_ejercicios ejercicio = new lab1_ejercicios();
         //ejercicio.ejercicio1();
         //ejercicio.ejercicio2();
-        ejercicio.ejercicio3();
-        
+        //ejercicio.ejercicio3();
+        //ejercicio.ejercicio4();
+        //ejercicio.ordenar();
+        //ejercicio.ver();
+        //ejercicio.ejercicio5();
+        // ejercicio.ejercicio6();
+        //ejercicio.ejercicio7();
+        //ejercicio.ejercicio8();
+        // ejercicio.ejercicio9();
+        //ejercicio.ejercicio10();
+        //ejercicio.ejercicio11();
+        //ejercicio.ejercicio12();
         
         
         
