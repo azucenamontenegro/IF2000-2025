@@ -5,7 +5,7 @@
 package if2000introduccion_progra;
 //import logic.Ejercicios_Semana2_PracticaEnClase;
 
-import logic.lab1_ejercicios;
+import logic.lab2_ejercicios;
 //import logic.Quizz3;
 
  
@@ -36,7 +36,7 @@ public class IF2000Introduccion_Progra {
         //ejercicios.ejercicioF();
         //ejercicios.mostrarF();
         
-        lab1_ejercicios ejercicio = new lab1_ejercicios();
+        //lab1_ejercicios ejercicio = new lab1_ejercicios();
         //ejercicio.ejercicio1();
         //ejercicio.ejercicio2();
         //ejercicio.ejercicio3();
@@ -52,8 +52,19 @@ public class IF2000Introduccion_Progra {
         //ejercicio.ejercicio11();
         //ejercicio.ejercicio12();
         
-        
-        
+        lab2_ejercicios ejercicio = new lab2_ejercicios();
+        //ejercicio.ejercicio13();
+        //ejercicio.ejercicio14();
+        //ejercicio.ejercicio15();
+ //      ejercicio.ejercicio16();
+//        ejercicio.ejercicio18();
+//        ejercicio.ejercicio19();
+//        ejercicio.ejercicio20();
+     //   ejercicio.ejercicio22();
+//       ejercicio.ejercicio23();
+//        ejercicio.ejercicio24();
+//        ejercicio.ejercicio26();
+      //  ejercicio.ejercicio27();
     }
     
 }
