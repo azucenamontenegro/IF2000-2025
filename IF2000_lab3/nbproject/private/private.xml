@@ -3,7 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/IF2000/IF2000-2025/IF2000Introduccion_Progra/src/logic/lab2_ejercicios.java</file>
+            <file>file:/C:/IF2000/IF2000-2025/IF2000_lab3/src/domain/Client.java</file>
+            <file>file:/C:/IF2000/IF2000-2025/IF2000_lab3/src/domain/Account.java</file>
+            <file>file:/C:/IF2000/IF2000-2025/IF2000_lab3/src/domain/SavingAccount.java</file>
         </group>
     </open-files>
 </project-private>
