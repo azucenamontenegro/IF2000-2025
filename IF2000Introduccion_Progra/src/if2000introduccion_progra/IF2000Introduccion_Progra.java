@@ -5,8 +5,9 @@
 package if2000introduccion_progra;
 //import logic.Ejercicios_Semana2_PracticaEnClase;
 
-import logic.lab2_ejercicios;
+//import logic.lab2_ejercicios;
 //import logic.Quizz3;
+import logic.Ajedrez;
 
  
 
@@ -52,7 +53,7 @@ public class IF2000Introduccion_Progra {
         //ejercicio.ejercicio11();
         //ejercicio.ejercicio12();
         
-        lab2_ejercicios ejercicio = new lab2_ejercicios();
+        //lab2_ejercicios ejercicio = new lab2_ejercicios();
         //ejercicio.ejercicio13();
         //ejercicio.ejercicio14();
         //ejercicio.ejercicio15();
@@ -65,6 +66,11 @@ public class IF2000Introduccion_Progra {
 //        ejercicio.ejercicio24();
 //        ejercicio.ejercicio26();
       //  ejercicio.ejercicio27();
+      
+      Ajedrez juego = new Ajedrez();
+
+        juego.mostrarTablero();
+      
     }
     
 }
