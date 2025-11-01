@@ -57,17 +57,17 @@ public class ArchivoTexto {
     private void leerArchivoDeTexto(){
         String contenido;
         
-    }
+    
         try{
             FileReader lector =new FileReader(archivo);
             BufferedReader lectura = new BufferedReader(lector);
-            String contenido = lectura.readLine();
+            contenido = lectura.readLine();
             System.out.println(contenido);
     }catch(IOException excepcion){
             excepcion.printStackTrace(System.out);
         }
     
-    
+    }
     
     public static void main(String[] args) {
         ArchivoTexto archivoTexto = new ArchivoTexto();
